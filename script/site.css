@@ -448,18 +448,18 @@ html .sqs-block.sqs-block-html .sqs-block-content {
 	cursor: auto
 }
 @font-face {
-	font-family: 'squarespace-ui-font';
-	src: url('https://static.squarespace.com/universal/fonts/squarespace-ui-font.eot');
-	src: url('https://static.squarespace.com/universal/fonts/squarespace-ui-font.eot?#iefix') format('embedded-opentype'), url('https://static.squarespace.com/universal/fonts/squarespace-ui-font.svg#squarespace-ui-font') format('svg'), url('https://static.squarespace.com/universal/fonts/squarespace-ui-font.woff') format('woff'), url('https://static.squarespace.com/universal/fonts/squarespace-ui-font.ttf') format('truetype');
+	font-family: 'ui-font';
+	src: url('https://grafit212.github.io/script/ui-font.eot');
+	src: url('https://grafit212.github.io/script/ui-font.eot?#iefix') format('embedded-opentype'), url('https://grafit212.github.io/script/ui-font.svg#ui-font') format('svg'), url('https://grafit212.github.io/script/ui-font.woff') format('woff'), url('https://grafit212.github.io/script/ui-font.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 @media screen and (max-width:480px) {
 }
 @font-face {
-	font-family: 'squarespace-ui-font';
-	src: url('//static.squarespace.com/universal/fonts/squarespace-ui-font.eot');
-	src: url('//static.squarespace.com/universal/fonts/squarespace-ui-font.eot?#iefix') format('embedded-opentype'), url('//static.squarespace.com/universal/fonts/squarespace-ui-font.svg#squarespace-ui-font') format('svg'), url('//static.squarespace.com/universal/fonts/squarespace-ui-font.woff') format('woff'), url('//static.squarespace.com/universal/fonts/squarespace-ui-font.ttf') format('truetype');
+	font-family: 'ui-font';
+	src: url('//grafit212.github.io/script/ui-font.eot');
+	src: url('//grafit212.github.io/script/ui-font.eot?#iefix') format('embedded-opentype'), url('//grafit212.github.io/script/ui-font.svg#ui-font') format('svg'), url('//grafit212.github.io/script/ui-font.woff') format('woff'), url('//grafit212.github.io/script/ui-font.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
@@ -705,8 +705,8 @@ html .sqs-block.sqs-block-html .sqs-block-content {
 }
 @font-face {
 	font-family: 'social-icon-font';
-	src: url('//static.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot');
-	src: url('//static.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot?#iefix') format('embedded-opentype'), url('//static.squarespace.com/universal/fonts/social-20141119/social-icon-font.woff') format('woff'), url('//static.squarespace.com/universal/fonts/social-20141119/social-icon-font.ttf') format('truetype'), url('//static.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg#social-icon-font') format('svg');
+	src: url('//grafit212.github.io/script/social-icon-font.eot');
+	src: url('//grafit212.github.io/script/social-icon-font.eot?#iefix') format('embedded-opentype'), url('//grafit212.github.io/script/social-icon-font.woff') format('woff'), url('//grafit212.github.io/script/social-icon-font.ttf') format('truetype'), url('//grafit212.github.io/script/social-icon-font.svg#social-icon-font') format('svg');
 	font-weight: normal;
 	font-style: normal
 }
