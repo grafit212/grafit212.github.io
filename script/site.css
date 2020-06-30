@@ -449,8 +449,6 @@ html .sqs-block.sqs-block-html .sqs-block-content {
 }
 @font-face {
 	font-family: 'ui-font';
-	src: url('https://grafit212.github.io/script/ui-font.eot');
-	src: url('https://grafit212.github.io/script/ui-font.eot?#iefix') format('embedded-opentype'), url('https://grafit212.github.io/script/ui-font.svg#ui-font') format('svg'), url('https://grafit212.github.io/script/ui-font.woff') format('woff'), url('https://grafit212.github.io/script/ui-font.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
@@ -458,8 +456,6 @@ html .sqs-block.sqs-block-html .sqs-block-content {
 }
 @font-face {
 	font-family: 'ui-font';
-	src: url('//grafit212.github.io/script/ui-font.eot');
-	src: url('//grafit212.github.io/script/ui-font.eot?#iefix') format('embedded-opentype'), url('//grafit212.github.io/script/ui-font.svg#ui-font') format('svg'), url('//grafit212.github.io/script/ui-font.woff') format('woff'), url('//grafit212.github.io/script/ui-font.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
@@ -705,8 +701,6 @@ html .sqs-block.sqs-block-html .sqs-block-content {
 }
 @font-face {
 	font-family: 'social-icon-font';
-	src: url('//grafit212.github.io/script/social-icon-font.eot');
-	src: url('//grafit212.github.io/script/social-icon-font.eot?#iefix') format('embedded-opentype'), url('//grafit212.github.io/script/social-icon-font.woff') format('woff'), url('//grafit212.github.io/script/social-icon-font.ttf') format('truetype'), url('//grafit212.github.io/script/social-icon-font.svg#social-icon-font') format('svg');
 	font-weight: normal;
 	font-style: normal
 }
