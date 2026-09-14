@@ -7,6 +7,8 @@ RewriteCond %{REQUEST_URI} !(\.[^./]+)$
 RewriteCond %{REQUEST_fileNAME} !-d
 RewriteCond %{REQUEST_fileNAME} !-f
 RewriteRule (.*) /$1.html
-<FilesMatch "_min\.(jpg|jpeg|png|gif|webp)$">
-    Header set X-Robots-Tag "noindex"
-</FilesMatch>
+<IfModule mod_headers.c>
+    <FilesMatch "_min\.(jpg|jpeg|png|gif|webp)$">
+        Header set X-Robots-Tag "noindex, nofollow"
+    </FilesMatch>
+</IfModule>
